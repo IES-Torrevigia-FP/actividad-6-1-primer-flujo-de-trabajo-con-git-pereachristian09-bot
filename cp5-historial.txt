@@ -1,0 +1,12 @@
+bd1c08e (HEAD -> main) Completa conceptos básicos de flujo en Git
+d0a19cb Añade archivo de notas inicial sobre Git
+
+
+¿Cuántos commits tienes ahora en el repositorio?
+
+Ahora
+
+¿Qué diferencia hay entre el primer y el segundo commit?
+
+
+
