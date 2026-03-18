@@ -1,0 +1,3 @@
+d0a19cb (HEAD -> main) Añade archivo de notas inicial sobre Git
+
+Es importante tener mensajes de commit claros para tener todo bien organizado y de facil locacizacion porque normalmente tendremos mas de 1 commits claro que si tuvieramos 2 commits a lo mejor no notariamos ese problema pero si tuvieramos 30 ya seria un problema ponerse a buscar uno por uno por eso es muy importante tener commits claros y distintos entre ellos.
