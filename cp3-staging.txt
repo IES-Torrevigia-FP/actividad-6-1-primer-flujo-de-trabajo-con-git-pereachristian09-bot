@@ -1,0 +1,20 @@
+En la rama main
+
+No hay commits todavía
+
+Cambios a ser confirmados:
+  (usa "git rm --cached <archivo>..." para sacar del área de stage)
+	nuevos archivos: notas-git.md
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	cp2-estado-inicial.txt
+
+
+¿Qué diferencia hay entre estar “untracked” y estar en “staging”?
+La diferencia es que en untracked estan los archivos nuevos o que han sido modificados y en staging estan esperando a ser subidos al commit.
+
+
+¿Qué comando has utilizado para pasar el archivo a la zona de staging?
+
+primero dentro del repositorio actividad-6-1-flujo-git puse el comando para git add notas-git.md y luego para comprobarlo puse git status
